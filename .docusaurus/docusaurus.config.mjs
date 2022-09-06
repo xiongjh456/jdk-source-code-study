@@ -6,8 +6,8 @@
 export default {
   "title": "My Site",
   "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
+  "url": "https://xiongjh456.github.io",
+  "baseUrl": "/jdk-source-code-study/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
