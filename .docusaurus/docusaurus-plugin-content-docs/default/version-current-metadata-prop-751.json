@@ -80,6 +80,34 @@
           }
         ],
         "href": "/jdk-source-code-study/docs/category/tutorial---extras"
+      },
+      {
+        "type": "category",
+        "label": "rt.jar",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "lang",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Object",
+                "href": "/jdk-source-code-study/docs/rt.jar/lang/Object",
+                "docId": "rt.jar/lang/Object"
+              },
+              {
+                "type": "link",
+                "label": "String",
+                "href": "/jdk-source-code-study/docs/rt.jar/lang/String",
+                "docId": "rt.jar/lang/String"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -88,6 +116,18 @@
       "id": "intro",
       "title": "Tutorial Intro",
       "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "rt.jar/lang/Object": {
+      "id": "rt.jar/lang/Object",
+      "title": "Object",
+      "description": "Object",
+      "sidebar": "tutorialSidebar"
+    },
+    "rt.jar/lang/String": {
+      "id": "rt.jar/lang/String",
+      "title": "String",
+      "description": "String",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/congratulations": {

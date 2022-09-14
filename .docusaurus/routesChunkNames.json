@@ -1,8 +1,8 @@
 {
-  "/jdk-source-code-study/blog-360": {
+  "/jdk-source-code-study/blog-95f": {
     "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "174f0bea"
+      "plugin": "de145303"
     },
     "sidebar": "814f3328",
     "items": [
@@ -21,49 +21,49 @@
     ],
     "metadata": "aaeecb04"
   },
-  "/jdk-source-code-study/blog/archive-8b2": {
+  "/jdk-source-code-study/blog/archive-4b9": {
     "__comp": "9e4087bc",
     "__context": {
-      "plugin": "174f0bea"
+      "plugin": "de145303"
     },
     "archive": "37f40367"
   },
-  "/jdk-source-code-study/blog/first-blog-post-a84": {
+  "/jdk-source-code-study/blog/first-blog-post-6db": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "174f0bea"
+      "plugin": "de145303"
     },
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/jdk-source-code-study/blog/long-blog-post-cc9": {
+  "/jdk-source-code-study/blog/long-blog-post-113": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "174f0bea"
+      "plugin": "de145303"
     },
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/jdk-source-code-study/blog/mdx-blog-post-e4b": {
+  "/jdk-source-code-study/blog/mdx-blog-post-54d": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "174f0bea"
+      "plugin": "de145303"
     },
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/jdk-source-code-study/blog/tags-060": {
+  "/jdk-source-code-study/blog/tags-f02": {
     "__comp": "01a85c17",
     "__context": {
-      "plugin": "174f0bea"
+      "plugin": "de145303"
     },
     "sidebar": "814f3328",
     "tags": "58e68755"
   },
-  "/jdk-source-code-study/blog/tags/docusaurus-a76": {
+  "/jdk-source-code-study/blog/tags/docusaurus-e8a": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "174f0bea"
+      "plugin": "de145303"
     },
     "sidebar": "814f3328",
     "items": [
@@ -83,10 +83,10 @@
     "tag": "c24ac1bd",
     "listMetadata": "21837126"
   },
-  "/jdk-source-code-study/blog/tags/facebook-2fd": {
+  "/jdk-source-code-study/blog/tags/facebook-9a2": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "174f0bea"
+      "plugin": "de145303"
     },
     "sidebar": "814f3328",
     "items": [
@@ -97,10 +97,10 @@
     "tag": "258e2042",
     "listMetadata": "884aac95"
   },
-  "/jdk-source-code-study/blog/tags/hello-65e": {
+  "/jdk-source-code-study/blog/tags/hello-7a5": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "174f0bea"
+      "plugin": "de145303"
     },
     "sidebar": "814f3328",
     "items": [
@@ -114,10 +114,10 @@
     "tag": "a2acd00d",
     "listMetadata": "4845d916"
   },
-  "/jdk-source-code-study/blog/tags/hola-848": {
+  "/jdk-source-code-study/blog/tags/hola-8e1": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "174f0bea"
+      "plugin": "de145303"
     },
     "sidebar": "814f3328",
     "items": [
@@ -128,25 +128,25 @@
     "tag": "b1f68455",
     "listMetadata": "356ebcba"
   },
-  "/jdk-source-code-study/blog/welcome-456": {
+  "/jdk-source-code-study/blog/welcome-fb0": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "174f0bea"
+      "plugin": "de145303"
     },
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/jdk-source-code-study/markdown-page-a29": {
+  "/jdk-source-code-study/markdown-page-e5b": {
     "__comp": "1f391b9e",
     "__context": {
-      "plugin": "ae990ad6"
+      "plugin": "8a04f0e4"
     },
     "content": "393be207"
   },
-  "/jdk-source-code-study/docs-642": {
+  "/jdk-source-code-study/docs-519": {
     "__comp": "1be78505",
     "__context": {
-      "plugin": "55cf25bb"
+      "plugin": "959c64b3"
     },
     "versionMetadata": "935f2afb"
   },
@@ -161,6 +161,14 @@
   "/jdk-source-code-study/docs/intro-377": {
     "__comp": "17896441",
     "content": "0e384e19"
+  },
+  "/jdk-source-code-study/docs/rt.jar/lang/Object-a7e": {
+    "__comp": "17896441",
+    "content": "af8305c2"
+  },
+  "/jdk-source-code-study/docs/rt.jar/lang/String-885": {
+    "__comp": "17896441",
+    "content": "b0c6a762"
   },
   "/jdk-source-code-study/docs/tutorial-basics/congratulations-4b9": {
     "__comp": "17896441",
@@ -194,10 +202,10 @@
     "__comp": "17896441",
     "content": "e44a2883"
   },
-  "/jdk-source-code-study/-b7a": {
+  "/jdk-source-code-study/-3f1": {
     "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "ae990ad6"
+      "plugin": "8a04f0e4"
     },
     "config": "5e9f5e1a"
   }

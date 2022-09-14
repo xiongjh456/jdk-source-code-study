@@ -16,6 +16,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "rt.jar/lang/Object",
+              "path": "/jdk-source-code-study/docs/rt.jar/lang/Object",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rt.jar/lang/String",
+              "path": "/jdk-source-code-study/docs/rt.jar/lang/String",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorial-basics/congratulations",
               "path": "/jdk-source-code-study/docs/tutorial-basics/congratulations",
               "sidebar": "tutorialSidebar"

@@ -4,67 +4,67 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/jdk-source-code-study/blog',
-    component: ComponentCreator('/jdk-source-code-study/blog', '360'),
+    component: ComponentCreator('/jdk-source-code-study/blog', '95f'),
     exact: true
   },
   {
     path: '/jdk-source-code-study/blog/archive',
-    component: ComponentCreator('/jdk-source-code-study/blog/archive', '8b2'),
+    component: ComponentCreator('/jdk-source-code-study/blog/archive', '4b9'),
     exact: true
   },
   {
     path: '/jdk-source-code-study/blog/first-blog-post',
-    component: ComponentCreator('/jdk-source-code-study/blog/first-blog-post', 'a84'),
+    component: ComponentCreator('/jdk-source-code-study/blog/first-blog-post', '6db'),
     exact: true
   },
   {
     path: '/jdk-source-code-study/blog/long-blog-post',
-    component: ComponentCreator('/jdk-source-code-study/blog/long-blog-post', 'cc9'),
+    component: ComponentCreator('/jdk-source-code-study/blog/long-blog-post', '113'),
     exact: true
   },
   {
     path: '/jdk-source-code-study/blog/mdx-blog-post',
-    component: ComponentCreator('/jdk-source-code-study/blog/mdx-blog-post', 'e4b'),
+    component: ComponentCreator('/jdk-source-code-study/blog/mdx-blog-post', '54d'),
     exact: true
   },
   {
     path: '/jdk-source-code-study/blog/tags',
-    component: ComponentCreator('/jdk-source-code-study/blog/tags', '060'),
+    component: ComponentCreator('/jdk-source-code-study/blog/tags', 'f02'),
     exact: true
   },
   {
     path: '/jdk-source-code-study/blog/tags/docusaurus',
-    component: ComponentCreator('/jdk-source-code-study/blog/tags/docusaurus', 'a76'),
+    component: ComponentCreator('/jdk-source-code-study/blog/tags/docusaurus', 'e8a'),
     exact: true
   },
   {
     path: '/jdk-source-code-study/blog/tags/facebook',
-    component: ComponentCreator('/jdk-source-code-study/blog/tags/facebook', '2fd'),
+    component: ComponentCreator('/jdk-source-code-study/blog/tags/facebook', '9a2'),
     exact: true
   },
   {
     path: '/jdk-source-code-study/blog/tags/hello',
-    component: ComponentCreator('/jdk-source-code-study/blog/tags/hello', '65e'),
+    component: ComponentCreator('/jdk-source-code-study/blog/tags/hello', '7a5'),
     exact: true
   },
   {
     path: '/jdk-source-code-study/blog/tags/hola',
-    component: ComponentCreator('/jdk-source-code-study/blog/tags/hola', '848'),
+    component: ComponentCreator('/jdk-source-code-study/blog/tags/hola', '8e1'),
     exact: true
   },
   {
     path: '/jdk-source-code-study/blog/welcome',
-    component: ComponentCreator('/jdk-source-code-study/blog/welcome', '456'),
+    component: ComponentCreator('/jdk-source-code-study/blog/welcome', 'fb0'),
     exact: true
   },
   {
     path: '/jdk-source-code-study/markdown-page',
-    component: ComponentCreator('/jdk-source-code-study/markdown-page', 'a29'),
+    component: ComponentCreator('/jdk-source-code-study/markdown-page', 'e5b'),
     exact: true
   },
   {
     path: '/jdk-source-code-study/docs',
-    component: ComponentCreator('/jdk-source-code-study/docs', '642'),
+    component: ComponentCreator('/jdk-source-code-study/docs', '519'),
     routes: [
       {
         path: '/jdk-source-code-study/docs/category/tutorial---basics',
@@ -81,6 +81,18 @@ export default [
       {
         path: '/jdk-source-code-study/docs/intro',
         component: ComponentCreator('/jdk-source-code-study/docs/intro', '377'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/jdk-source-code-study/docs/rt.jar/lang/Object',
+        component: ComponentCreator('/jdk-source-code-study/docs/rt.jar/lang/Object', 'a7e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/jdk-source-code-study/docs/rt.jar/lang/String',
+        component: ComponentCreator('/jdk-source-code-study/docs/rt.jar/lang/String', '885'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -136,7 +148,7 @@ export default [
   },
   {
     path: '/jdk-source-code-study/',
-    component: ComponentCreator('/jdk-source-code-study/', 'b7a'),
+    component: ComponentCreator('/jdk-source-code-study/', '3f1'),
     exact: true
   },
   {

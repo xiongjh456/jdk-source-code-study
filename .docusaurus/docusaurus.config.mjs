@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "D:\\data\\idea_workspace\\jdk-source-code-study\\sidebars.js",
+          "sidebarPath": "F:\\java_workspace\\jdk-source-code-study\\sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -34,7 +34,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "D:\\data\\idea_workspace\\jdk-source-code-study\\src\\css\\custom.css"
+          "customCss": "F:\\java_workspace\\jdk-source-code-study\\src\\css\\custom.css"
         }
       }
     ]
