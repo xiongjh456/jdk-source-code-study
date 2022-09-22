@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjdk_source_code_study=self.webpackChunkjdk_source_code_study||[]).push([[2708],{6264:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/jdk-source-code-study/blog/tags/hola","allTagsPath":"/jdk-source-code-study/blog/tags","count":1}')}}]);
